@@ -1,0 +1,4 @@
+package plano
+class Angulo {
+  
+}
