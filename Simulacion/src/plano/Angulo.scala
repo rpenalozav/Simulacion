@@ -1,4 +1,3 @@
 package plano
-class Angulo {
-  
+case class Angulo (val grados:Int){
 }
